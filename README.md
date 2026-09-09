@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Apoorva Biradar 👋</h1>
-<h3 align="center">Computer Science Undergrad | Full-Stack & Data-Driven Systems</h3>
+<h3 align="center">Computer Science Undergrad | Software Engineering & AI/ML Enthusiast | Databases • DevOps</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/apoorva-biradar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -11,9 +11,9 @@
 
 ### 🚀 About Me
 
-I'm a CS undergrad at **PES University** (Class of 2027) who likes building things end-to-end — from designing the database schema to shipping the UI. My recent work spans **full-stack web apps**, **CI/CD pipelines**, and **ML-powered analytics dashboards**.
+I'm a CS undergrad at **PES University** (Class of 2027) who likes building things end-to-end - from designing the database schema to shipping the UI. My recent work spans **full-stack web apps**, **CI/CD pipelines**, and **ML-powered analytics dashboards**.
 
-- 🎓 B.Tech in Computer Science, CGPA 8.07
+- 🎓 B.Tech in Computer Science at PES University, Bengaluru
 - 🔭 Currently exploring backend systems, DevOps, and applied ML
 - ☁️ Certified in **Microsoft Azure AI Fundamentals (AI-900)** and AWS Solutions Architecture
 - 🧩 Comfortable across Java, Python, and the MERN stack
