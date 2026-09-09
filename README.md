@@ -71,4 +71,4 @@ I'm a CS undergrad at **PES University** (Class of 2027) who likes building thin
 
 ---
 
-<p align="center"><i>Open to internship opportunities in software development and applied ML — let's connect!</i></p>
+<p align="center"><i>Open to software engineering roles and opportunities across AI and applied ML. Would love to connect!</i></p>
